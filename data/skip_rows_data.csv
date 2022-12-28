@@ -1,0 +1,8 @@
+This file contains details of students in different departments
+It is stored as comma separated data
+################################################################
+Roll No,Name,Age,Department,Section
+Unique id for a student,Name of the student,Age of student in years,Department the student belongs to,Section within the department the student is enrolled in
+1,Amy,18,Computer,A
+6,Jacob,19,Arts,B
+4,Ryan,18,History,A
